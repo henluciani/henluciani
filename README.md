@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning front-end development, focused on react native
 - ⚡ Fun fact: My dream is to ultimately master the process of design -> from ux principles to creation and development
 
+## This week i spent my time on:
+
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/652ef262f43a58c923e2028e?variant=dark&roadmaps=frontend%2Cjavascript%2Creact%2Creact-native" alt="roadmap.sh"/></a>
 
 <!--
