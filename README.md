@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+i'm an ux guy getting lost in code
+
+- 🔭 I’m currently working on building @Oinc, a personal finance app for young adults
+- 🌱 I’m currently learning front-end development, focused on react native
+- - ⚡ Fun fact: My dream is ultimately master the process of design -> creation, product and development
+
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/652ef262f43a58c923e2028e?variant=dark&roadmaps=frontend%2Cjavascript%2Creact%2Creact-native" alt="roadmap.sh"/></a>
+
 <!--
 **henluciani/henluciani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
