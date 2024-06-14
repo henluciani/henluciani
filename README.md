@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on designing <a href=https://useoinc.com.br>Oinc</a>
 , a personal finance app for young adults
 - 🌱 I’m currently learning front-end development, focused on react native
-- ⚡ Fun fact: My dream is to ultimately master the process of design -> from ux principles to creation and development
+- ⚡ I will ultimately master the process of design -> from ux principles to creation and development
 
 #### This week i spent my time on:
 
