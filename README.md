@@ -9,17 +9,9 @@
 
 - 🌱 I’m currently learning **React Native, Rust and Solidity**
 
-- 👨‍💻Find me online @ [henriqueluciani.com](henriqueluciani.com)
-
-- 📝 I regularly write articles on [henriqueluciani.com/blog](henriqueluciani.com/blog)
-
 - 💬 Ask me about **Figma, React, Astro, NextJS, Jekyll, Web Development**
 
 - 📫 How to reach me **henluciani@gmail.com**
-
-- 📄 Know about my experiences [henriqueluciani.com/cv](henriqueluciani.com/cv)
-
-- ⚡ Fun fact **I once ate a kilo of brocolli in one meal**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
