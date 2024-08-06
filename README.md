@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henrique Luciani</h1>
 <h3 align="center">A passionate UX Designer and Frontend Developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henluciani" alt="henluciani" /></a> </p>
-
 - 🔭 I’m currently working on [Oinc](https://useoinc.com.br)
 
 - 🌱 I’m currently learning **React Native, Rust and Solidity**
