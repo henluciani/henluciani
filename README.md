@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, Rust and Solidity**
 
-- 💬 Ask me about **Figma, React, Astro, NextJS, Jekyll, Web Development**
+- 💬 Ask me about **Figma, React, Expo, NextJS, Jekyll, Web Development**
 
 - 📫 How to reach me **henluciani@gmail.com**
 
