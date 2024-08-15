@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Henrique Luciani</h1>
-<h3 align="center">A passionate UX Designer and Frontend Developer from Brazil</h3>
+<h1 align="center">henrique luciani</h1>
+<h3 align="center">Product Designer and Frontend Developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Oinc](https://useoinc.com.br)
 
